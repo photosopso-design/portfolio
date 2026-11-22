@@ -1,0 +1,18 @@
+PORTFOLIO INDEPENDANT — SOFIANE BOUCHENTOUF
+
+Ouverture locale :
+- Décompresser le dossier.
+- Ouvrir index.html dans un navigateur.
+
+Le site est autonome pour les pages et les images incluses. Il fonctionne en local et peut être hébergé sur un service statique (par exemple GitHub Pages ou Netlify).
+
+Limites de cette première reconstruction :
+- Les archives fournies sont des captures de pages de galerie, pas un export complet du site Adobe.
+- Les vidéos intégrées, les pages détaillées de chaque projet, certains médias supplémentaires et le PDF du CV ne sont pas inclus dans ces captures.
+- La page d'accueil originale n'a pas fourni de visuels de projets exploitables ; une page d'accueil indépendante a donc été reconstruite dans le même esprit minimaliste.
+- Les textes et titres visibles des galeries ont été récupérés ; les visuels disponibles ont été extraits et optimisés.
+
+À compléter :
+- Ajouter les vidéos (ou leurs liens Vimeo/YouTube).
+- Ajouter le PDF du CV.
+- Ajuster précisément le design après validation visuelle.
